@@ -2,6 +2,6 @@
 
 Site feito para avaliação da matéria Desenvolvimento Web.
 
-Dupla: Elloádja Alaíde Pereira Panta / Labert Paixão Ribeiro
+Trio: Elloádja Alaíde Pereira Panta / Labert Paixão Ribeiro / Thayany Alves da Silva
 
 Prof: Gustavo Soares Vieira
